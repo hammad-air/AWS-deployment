@@ -56,7 +56,7 @@ git clone https://github.com/hammad-air/AWS-deployment.git
 Get inside the directory and Install Packages
 
 ```bash
-cd nodejs-on-ec2
+cd AWS-deployment
 npm install
 ```
 
